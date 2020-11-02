@@ -13,7 +13,8 @@
   },
   "targets": {
     "main": {
-      "distDir": "./docs"
+      "distDir": "./docs/կ",
+      "publicUrl": "https://խաչատրյան.հայ/կ/"
     }
   },
   "devDependencies": {
