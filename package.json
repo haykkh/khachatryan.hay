@@ -1,0 +1,23 @@
+{
+  "name": "khachatryan.hay",
+  "version": "1.0.0",
+  "description": "այժմ համաշխարհային ցանցում:",
+  "main": "docs/h/index.html",
+  "source": "src/h/html/index.html",
+  "repository": "https://github.com/haykkh/khachatryan.hay",
+  "author": "Հայկ Խաչատրյան <hi@hayk.io>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel serve src/h/html/index.html",
+    "build": "parcel build ./src/h/html/index.html"
+  },
+  "targets": {
+    "main": {
+      "distDir": "./docs"
+    }
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.27.1"
+  }
+}
