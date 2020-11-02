@@ -2,14 +2,14 @@
   "name": "khachatryan.hay",
   "version": "1.0.0",
   "description": "այժմ համաշխարհային ցանցում:",
-  "main": "docs/h/index.html",
-  "source": "src/h/html/index.html",
+  "main": "docs/կ/index.html",
+  "source": "src/կ/html/index.html",
   "repository": "https://github.com/haykkh/khachatryan.hay",
   "author": "Հայկ Խաչատրյան <hi@hayk.io>",
   "license": "MIT",
   "scripts": {
-    "start": "parcel serve src/h/html/index.html",
-    "build": "parcel build ./src/h/html/index.html"
+    "start": "parcel serve src/կ/html/index.html",
+    "build": "parcel build ./src/կ/html/index.html"
   },
   "targets": {
     "main": {
