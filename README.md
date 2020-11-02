@@ -16,7 +16,7 @@ For the english version, go [here](https://github.com/haykkh/haykkh.github.io).
 ```sh
 git clone https://github.com/haykkh/khachatryan.hay.git
 
-cd hayk-am
+cd khachatryan.hay
 
 yarn
 ```
